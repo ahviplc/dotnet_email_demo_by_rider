@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\_developSoftKu\Rider-2019.2.2\CodeKu\WindowsFormsApplicationLCDemo_email" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WindowsFormsApplicationLCDemo" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="WindowsFormsApplicationLCDemo.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="WindowsFormsApplicationLCDemo.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\Administrator\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_WindowsFormsApplicationLCDemo.-892461054.00" t="ExcludeRecursive" />
+  </component>
+</project>

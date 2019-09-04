@@ -1,0 +1,19 @@
+E:\visual studio2013\#Code\WindowsFormsApplicationLCDemo\WindowsFormsApplicationLCDemo\bin\Debug\WindowsFormsApplicationLCDemo.exe.config
+E:\visual studio2013\#Code\WindowsFormsApplicationLCDemo\WindowsFormsApplicationLCDemo\bin\Debug\WindowsFormsApplicationLCDemo.exe
+E:\visual studio2013\#Code\WindowsFormsApplicationLCDemo\WindowsFormsApplicationLCDemo\bin\Debug\WindowsFormsApplicationLCDemo.pdb
+E:\visual studio2013\#Code\WindowsFormsApplicationLCDemo\WindowsFormsApplicationLCDemo\obj\Debug\WindowsFormsApplicationLCDemo.csprojResolveAssemblyReference.cache
+E:\visual studio2013\#Code\WindowsFormsApplicationLCDemo\WindowsFormsApplicationLCDemo\obj\Debug\WindowsFormsApplicationLCDemo.Form1.resources
+E:\visual studio2013\#Code\WindowsFormsApplicationLCDemo\WindowsFormsApplicationLCDemo\obj\Debug\WindowsFormsApplicationLCDemo.Properties.Resources.resources
+E:\visual studio2013\#Code\WindowsFormsApplicationLCDemo\WindowsFormsApplicationLCDemo\obj\Debug\WindowsFormsApplicationLCDemo.csproj.GenerateResource.Cache
+E:\visual studio2013\#Code\WindowsFormsApplicationLCDemo\WindowsFormsApplicationLCDemo\obj\Debug\WindowsFormsApplicationLCDemo.exe
+E:\visual studio2013\#Code\WindowsFormsApplicationLCDemo\WindowsFormsApplicationLCDemo\obj\Debug\WindowsFormsApplicationLCDemo.pdb
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\WindowsFormsApplicationLCDemo_email\WindowsFormsApplicationLCDemo\obj\Debug\WindowsFormsApplicationLCDemo.exe
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\WindowsFormsApplicationLCDemo_email\WindowsFormsApplicationLCDemo\obj\Debug\WindowsFormsApplicationLCDemo.pdb
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\WindowsFormsApplicationLCDemo_email\WindowsFormsApplicationLCDemo\bin\Debug\WindowsFormsApplicationLCDemo.exe.config
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\WindowsFormsApplicationLCDemo_email\WindowsFormsApplicationLCDemo\bin\Debug\WindowsFormsApplicationLCDemo.exe
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\WindowsFormsApplicationLCDemo_email\WindowsFormsApplicationLCDemo\bin\Debug\WindowsFormsApplicationLCDemo.pdb
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\WindowsFormsApplicationLCDemo_email\WindowsFormsApplicationLCDemo\obj\Debug\WindowsFormsApplicationLCDemo.csprojAssemblyReference.cache
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\WindowsFormsApplicationLCDemo_email\WindowsFormsApplicationLCDemo\obj\Debug\WindowsFormsApplicationLCDemo.Form1.resources
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\WindowsFormsApplicationLCDemo_email\WindowsFormsApplicationLCDemo\obj\Debug\WindowsFormsApplicationLCDemo.Properties.Resources.resources
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\WindowsFormsApplicationLCDemo_email\WindowsFormsApplicationLCDemo\obj\Debug\WindowsFormsApplicationLCDemo.csproj.GenerateResource.cache
+C:\_developSoftKu\Rider-2019.2.2\CodeKu\WindowsFormsApplicationLCDemo_email\WindowsFormsApplicationLCDemo\obj\Debug\WindowsFormsApplicationLCDemo.csproj.CoreCompileInputs.cache
