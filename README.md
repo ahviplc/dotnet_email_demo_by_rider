@@ -48,6 +48,11 @@ C:\_developSoftKu\Rider-2019.2.2\CodeKu\WindowsFormsApplicationLCDemo_email\Wind
 
 再右边就是run/debug run
 
+### 新增Gitee 码云
+
+dotnet_email_demo_by_rider: dotnet_email_demo_by_rider 邮件demo 桌面图形化程序 By LC  
+> https://gitee.com/ahviplc/dotnet_email_demo_by_rider
+
 ## About Me
 
 **欢迎来到 [LC博客-一加壹博客最Top](http://www.oneplusone.vip)**
@@ -57,6 +62,8 @@ C:\_developSoftKu\Rider-2019.2.2\CodeKu\WindowsFormsApplicationLCDemo_email\Wind
 **欢迎来到 [LC-Github](https://github.com/ahviplc)**
 
 **欢迎来到 [LC-Github-dotnet_email_demo_by_rider](https://github.com/ahviplc/dotnet_email_demo_by_rider)**
+
+**欢迎来到 [LC-Gitee-dotnet_email_demo_by_rider](https://gitee.com/ahviplc/dotnet_email_demo_by_rider)**
 
 > ### LC最寄语：永远不要放弃自己心中最初的最初的理想！~LC
 

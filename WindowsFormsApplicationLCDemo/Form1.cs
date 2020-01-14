@@ -288,5 +288,13 @@ namespace WindowsFormsApplicationLCDemo
         private void label3_Click(object sender, EventArgs e)
         {
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine("gitee Best！");
+            MessageBox.Show("gitee Best！");
+
+            // throw new System.NotImplementedException();
+        }
     }
 }
